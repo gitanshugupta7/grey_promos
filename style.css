@@ -42,6 +42,16 @@ h1 {
     -webkit-text-fill-color: transparent;
 }
 
+.funnel{
+    font-family: 'Funnel Display';
+}
+
+.whatsapp{
+    background-color: #29B200;
+    padding: 0.6rem;
+    border-radius: 1rem;
+}
+
 .second {
     margin: 1rem 0;
     font-size: 1.2rem;
@@ -126,7 +136,7 @@ img {
 
     .second {
         margin: 0.8rem 0;
-        font-size: 0.8rem;
+        font-size: 0.9rem;
         color: #f05a22;
         font-family: 'Funnel Display';
     }
