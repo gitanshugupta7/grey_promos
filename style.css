@@ -52,6 +52,7 @@ h1 {
     border-radius: 1rem;
     bottom: 0.1%;
     right: 0.1%;   
+    width: 6rem; 
 }
 
 .second {
@@ -146,5 +147,9 @@ img {
     img {
         width: 100%; /* Ensure image is responsive */
         max-width: 12rem;
+    }
+
+    .whatsapp{
+        width: 4.86rem;
     }
 }
